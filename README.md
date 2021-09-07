@@ -9,3 +9,9 @@
 8. Run ```php artisan storage:link``` to link storage folder
 9. Run ```php artisan serve``` to start server
 10. Head to localhost:8000 to see your application
+
+# Requirements (At least what i used)
+- Composer 2.1.6
+- Laravel installer 4.2.8
+- NPM 7.21.0
+- MySQL 5.7.34 (from mamp)
