@@ -1,3 +1,8 @@
+# Contents
+- [Quickstart] (#Quickstart)
+- [Requirements] (#Requirements)
+- [Known issues] (#Known issues)
+
 # Quickstart
 1. Clone me
 2. Install dependecies ```composer install```
@@ -10,7 +15,8 @@
 9. Run ```php artisan serve``` to start server
 10. Head to localhost:8000 to see your application
 
-# Requirements (At least what i used)
+# Requirements
+(At least what i used)
 - Composer 2.1.6
 - Laravel installer 4.2.8
 - NPM 7.21.0
