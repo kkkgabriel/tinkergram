@@ -15,3 +15,9 @@
 - Laravel installer 4.2.8
 - NPM 7.21.0
 - MySQL 5.7.34 (from mamp)
+
+# Known issues
+1. (Windows 10, git bash) > ```composer install``` 
+> [ErrorException]
+> tempnam(): file created in the system's temporary directory
+Solution: Run powershell in admin
