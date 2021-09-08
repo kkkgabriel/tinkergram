@@ -1,7 +1,7 @@
 # Contents
-- [Quickstart] (#Quickstart)
-- [Requirements] (#Requirements)
-- [Known issues] (#Known issues)
+- [Quickstart] (#quickstart)
+- [Requirements] (#requirements)
+- [Known issues] (#known-issues)
 
 # Quickstart
 1. Clone me
