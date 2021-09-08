@@ -20,4 +20,5 @@
 1. (Windows 10, git bash) > ```composer install``` 
 > [ErrorException]
 > tempnam(): file created in the system's temporary directory
+
 Solution: Run powershell in admin
