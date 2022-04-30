@@ -13,6 +13,7 @@ class ProfileController extends Controller
         $user = Auth::user();
         $profile = Profile::where('user_id', $user->id)->first();
         $posts = \App\Models\Post::where('user_id', $user->id)->orderBy('created_at', 'desc')->get();
+        // $posts = \App\Models\Post::all();
         $numPosts = \App\Models\Post::where('user_id', $user->id)->count();
 
         return view('profile', [
